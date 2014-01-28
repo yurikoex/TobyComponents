@@ -1,0 +1,19 @@
+{
+  "name": "min",
+  "repo": "component/min",
+  "description": "Array min value utility",
+  "version": "1.0.0",
+  "keywords": [
+    "array",
+    "min",
+    "utility"
+  ],
+  "dependencies": {
+    "component/to-function": "*"
+  },
+  "development": {},
+  "scripts": [
+    "index.js"
+  ],
+  "license": "MIT"
+}

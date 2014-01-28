@@ -1,0 +1,11 @@
+{
+  "name": "tobycomponent",
+  "dependencies": {
+    "component/sparkline": "*",
+    "component/ease": "*",
+    "component/autoscale-canvas": "*",
+    "juliangruber/analyzer": "*",
+    "juliangruber/get-user-media": "*",
+    "lodash/lodash": "*"
+  }
+}
